@@ -43,7 +43,7 @@ var p1;
 var p2;
 
 //bot setup
-client.connect({ token: "MjU0NTU0NTk4NzM0NDMwMjA4.Dk8fcQ.9-R8UgIro6WSlyAMwTsbjhXzNss" });
+client.connect({ token: "ODUyNzgyMjM1ODIwMzU5NzEy.YML1WA.ZPJHB8fSCnixi-DkrQQpGjiAaJg" });
 
 client.Dispatcher.on("GATEWAY_READY", e => {
   console.log("Connected as: " + client.User.username);
